@@ -1,4 +1,10 @@
 # Robotics Engineering Collection
+> Welcome To The World Robotics Engineering Collection ®. A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Robotics.
+> Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
+
+
+### What is Robotics?
+[Robotics](https://en.wikipedia.org/wiki/Robotics) is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions.
 
 ## Table of Contents
 
