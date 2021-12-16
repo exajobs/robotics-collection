@@ -1,6 +1,13 @@
 # Robotics Engineering Collection
 
+## Table of Contents
 
+- [Courses](#courses)
+- [Books](#books)
+- [Software and Libraries](#software-and-libraries)
+- [Papers](#papers)
+- [Conferences](#conferences)
+- [Journals](#journals)
 
 ### Courses ###
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
