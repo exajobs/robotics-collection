@@ -6,6 +6,8 @@
 ### What is Robotics?
 [Robotics](https://en.wikipedia.org/wiki/Robotics) is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions.
 
+![robotics](https://github.com/exajobs/robotics-collection/blob/main/img/ai-intersects-with-robotics.png)
+
 ## Table of Contents
 
 - [Courses](#courses)
