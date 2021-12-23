@@ -221,10 +221,10 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Computer Vision Collection](https://github.com/exajobs/computer-vision-collection)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Deep Vision Collection](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
